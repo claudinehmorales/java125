@@ -1,0 +1,95 @@
+
+The Small Consulting Group
+1616 Index Ct. 
+Renton, WA 98058
+
+Invoice for:
+Acme Industries
+1616 Index Ct. 
+Redmond, WA 98055
+Coyote, Wiley NMN
+
+Invoice for month of: 2006-03-31
+Invoice date: 2006-03-31
+
+DATE            CONSULTANT           SKILL                 HOURS          CHARGE
+----------------------------------------------------------------------------------
+2006-03-06      Coder, Carl NMN      Software Engineer         8          1200.00   
+2006-03-07      Coder, Carl NMN      Software Engineer         8          1200.00   
+
+Total:                                                        16          2400.00
+
+The Small Consulting Group                                           Page:      1
+==================================================================================
+
+The Small Consulting Group
+1616 Index Ct. 
+Renton, WA 98058
+
+Invoice for:
+FooBar Enterprises
+1024 Kilobyte Dr. 
+Silicone Gulch, CA 94105
+Sam, Yosemite NMN
+
+Invoice for month of: 2006-03-31
+Invoice date: 2006-03-31
+
+DATE            CONSULTANT           SKILL                 HOURS          CHARGE
+----------------------------------------------------------------------------------
+2006-03-01      Coder, Carl NMN      Software Engineer         8          1200.00   
+2006-03-02      Coder, Carl NMN      Software Engineer         8          1200.00   
+2006-03-03      Coder, Carl NMN      Software Engineer         8          1200.00   
+2006-03-08      Coder, Carl NMN      Software Engineer         8          1200.00   
+2006-03-09      Coder, Carl NMN      Software Engineer         12         1800.00   
+
+The Small Consulting Group                                           Page:      1
+==================================================================================
+
+
+The Small Consulting Group
+1616 Index Ct. 
+Renton, WA 98058
+
+Invoice for:
+FooBar Enterprises
+1024 Kilobyte Dr. 
+Silicone Gulch, CA 94105
+Sam, Yosemite NMN
+
+Invoice for month of: 2006-03-31
+Invoice date: 2006-03-31
+
+DATE            CONSULTANT           SKILL                 HOURS          CHARGE
+----------------------------------------------------------------------------------
+2006-03-08      Architect, Ann S.    System Architect          8          1600.00   
+2006-03-09      Architect, Ann S.    System Architect          8          1600.00   
+2006-03-10      Architect, Ann S.    System Architect          8          1600.00   
+2006-03-11      Architect, Ann S.    System Architect          8          1600.00   
+
+The Small Consulting Group                                           Page:      2
+==================================================================================
+
+
+The Small Consulting Group
+1616 Index Ct. 
+Renton, WA 98058
+
+Invoice for:
+FooBar Enterprises
+1024 Kilobyte Dr. 
+Silicone Gulch, CA 94105
+Sam, Yosemite NMN
+
+Invoice for month of: 2006-03-31
+Invoice date: 2006-03-31
+
+DATE            CONSULTANT           SKILL                 HOURS          CHARGE
+----------------------------------------------------------------------------------
+2006-03-14      Architect, Ann S.    System Architect          8          1600.00   
+2006-03-17      Architect, Ann S.    System Architect          8          1600.00   
+
+Total:                                                       108         19400.00
+
+The Small Consulting Group                                           Page:      3
+==================================================================================

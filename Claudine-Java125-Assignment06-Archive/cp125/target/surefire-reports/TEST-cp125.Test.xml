@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="55" failures="0" name="cp125.Test" time="0.03" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.101-b13"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/claudinemorales/Documents/Claudine-Java125-Assignment06-Archive/cp125"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/claudinemorales/Documents/Claudine-Java125-Assignment06-Archive/cp125"/>
+    <property name="java.runtime.version" value="1.8.0_101-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/jk/7sp8x7pn66s0nm6sxsn_4wtr0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/claudinemorales/Downloads/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/claudinemorales/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.11.6"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/claudinemorales"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="claudinemorales"/>
+    <property name="java.class.path" value="/Users/claudinemorales/Downloads/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_101"/>
+    <property name="java.ext.dirs" value="/Users/claudinemorales/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/claudinemorales/Downloads/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="cp125.Test" name="canCreateNewInvoice" time="0.005"/>
+  <testcase classname="cp125.Test" name="canGetWeekStartingDayOnTimeCard" time="0.014"/>
+  <testcase classname="cp125.Test" name="canSetLastName" time="0"/>
+  <testcase classname="cp125.Test" name="canGetContactForClientAccount" time="0"/>
+  <testcase classname="cp125.Test" name="canGetLastName" time="0"/>
+  <testcase classname="cp125.Test" name="canGetTotalHoursOnTimeCard" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetSkillForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canSetContactForClientAccount" time="0.001"/>
+  <testcase classname="cp125.Test" name="canSetStateCodeCA" time="0"/>
+  <testcase classname="cp125.Test" name="canSetStateCodeWA" time="0"/>
+  <testcase classname="cp125.Test" name="canGetConsultantForTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewClientAccount" time="0"/>
+  <testcase classname="cp125.Test" name="canGetNameForClientAccount" time="0"/>
+  <testcase classname="cp125.Test" name="canAddConsultantTimeToTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canSetAccountForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canGetBillableHoursForClient" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewNameTwoArgs" time="0"/>
+  <testcase classname="cp125.Test" name="canCompareNameObjectsUsingEqualsMethod" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceClientAccount" time="0"/>
+  <testcase classname="cp125.Test" name="canGetConsultantName" time="0"/>
+  <testcase classname="cp125.Test" name="canAddBillableTimeToTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceLineItemConsultant" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetFirstName" time="0"/>
+  <testcase classname="cp125.Test" name="canGetHashCode" time="0"/>
+  <testcase classname="cp125.Test" name="canGetCorrectValueOfIsBillableForClientAccount" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetStartDateForInvoice" time="0"/>
+  <testcase classname="cp125.Test" name="canAddNonBillableTimeToTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewConsultantTime" time="0.001"/>
+  <testcase classname="cp125.Test" name="canAddBillableHoursForClient" time="0"/>
+  <testcase classname="cp125.Test" name="canGetAccountForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canGetHoursForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewAddressAndGetEachAddressObjectProperty" time="0"/>
+  <testcase classname="cp125.Test" name="consultantTimeIsNotBillable" time="0"/>
+  <testcase classname="cp125.Test" name="canSetNonBillableAccount" time="0"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceLineItemHours" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceLineItemSkill" time="0"/>
+  <testcase classname="cp125.Test" name="canSetDateForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewNameThreeArgs" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewConsultant" time="0"/>
+  <testcase classname="cp125.Test" name="canSetSkill" time="0"/>
+  <testcase classname="cp125.Test" name="canSetFirstName" time="0"/>
+  <testcase classname="cp125.Test" name="canGetMiddleName" time="0"/>
+  <testcase classname="cp125.Test" name="canSetHoursForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canSetAndGetAddressForClientAccount" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetDateForConsultantTime" time="0"/>
+  <testcase classname="cp125.Test" name="canGetTotalNonBillableTimeOnTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canGetConsultingHoursOnTimeCard" time="0"/>
+  <testcase classname="cp125.Test" name="canAddLineItemsToInvoice" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetTotalBillableHoursOnTimeCard" time="0.001"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceMonth" time="0.001"/>
+  <testcase classname="cp125.Test" name="consultantTimeIsBillable" time="0"/>
+  <testcase classname="cp125.Test" name="canSetMiddleName" time="0"/>
+  <testcase classname="cp125.Test" name="canCreateNewInvoiceLineItem" time="0"/>
+  <testcase classname="cp125.Test" name="canGetInvoiceLineItemCharge" time="0"/>
+</testsuite>
